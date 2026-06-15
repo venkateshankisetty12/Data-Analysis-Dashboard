@@ -40,3 +40,12 @@
      -Efficiency Score
 # DashBoard
  ![Uploading Screenshot_15-6-2026_174957_.jpeg…]("https://github.com/venkateshankisetty12/Data-Analysis-Dashboard/blob/main/Screenshot_15-6-2026_174957_.jpeg")
+# Project Insights
+- A gradual improvement in PUE over time suggests advancements in energy efficiency technologies.
+- Efficient facilities demonstrate that lower energy usage is achievable with optimized operations.
+- Comparing companies reveals variation in sustainability practices and performance.
+# Final Conclusion
+- Global data center electricity consumption shows a consistent upward trend, indicating increasing demand for digital infrastructure.
+- Water usage is also significant, highlighting the environmental impact of large-scale data centers.
+- The average PUE indicates moderate efficiency, with scope for further optimization.
+- Certain companies and facilities contribute disproportionately to overall energy consumption.
