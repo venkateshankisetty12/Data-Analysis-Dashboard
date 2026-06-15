@@ -6,13 +6,37 @@
 
 ## Dataset used
 <a href = "https://github.com/venkateshankisetty12/Data-Analysis-Dashboard/blob/main/data_center_hybrid.csv"> Dataset</a>
+
 ## Question (KPIS)
-What is the total electricity consumption across all data centers?
-How much total water is consumed globally? 
-What is the average PUE (Power Usage Effectiveness)?
-What is the average WUE (Water Usage Efficiency)?
-How has electricity usage changed over the years?
-Is water consumption increasing or decreasing over time?
-Are data centers becoming more efficient (PUE improving) over time?
-Which countries have the highest electricity consumption?
-Are high-consumption regions also facing water stress issues?
+- What is the total electricity consumption across all data centers?
+- How much total water is consumed globally? 
+- What is the average PUE (Power Usage Effectiveness)?
+- What is the average WUE (Water Usage Efficiency)?
+- How has electricity usage changed over the years?
+- Is water consumption increasing or decreasing over time?
+- Are data centers becoming more efficient (PUE improving) over time?
+- Which countries have the highest electricity consumption?
+- Are high-consumption regions also facing water stress issues?
+- Dashboard Interaction <a href = "https://github.com/venkateshankisetty12/Data-Analysis-Dashboard/blob/main/Screenshot_15-6-2026_174957_.jpeg"> View Dashboard </a>
+
+# Process 
+- Selected a real-world Data Center Performance dataset
+- Dataset includes:
+      -Energy consumption ⚡
+      -Water usage 💧
+      -Efficiency metrics (PUE, WUE)
+      -Company, location, and facility details
+- Imported dataset into Power BI Desktop
+- Verified column structure and data types
+- Converted Year column to numeric format
+- Checked and handled missing/null values
+- Renamed columns for better readability
+- Removed unnecessary columns
+- Created key performance metrics using DAX:
+     -Total Electricity Consumption
+     -Total Water Usage
+     -Average PUE
+     -Average WUE
+     -Efficiency Score
+# DashBoard
+ ![Uploading Screenshot_15-6-2026_174957_.jpeg…]("https://github.com/venkateshankisetty12/Data-Analysis-Dashboard/blob/main/Screenshot_15-6-2026_174957_.jpeg")
