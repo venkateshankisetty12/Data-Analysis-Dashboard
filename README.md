@@ -39,7 +39,7 @@
      -Average WUE
      -Efficiency Score
 # DashBoard
- ![Uploading Screenshot_15-6-2026_174957_.jpeg…]("https://github.com/venkateshankisetty12/Data-Analysis-Dashboard/blob/main/Screenshot_15-6-2026_174957_.jpeg")
+https://github.com/venkateshankisetty12/Data-Analysis-Dashboard/blob/main/Screenshot_15-6-2026_174957_.jpeg
 # Project Insights
 - A gradual improvement in PUE over time suggests advancements in energy efficiency technologies.
 - Efficient facilities demonstrate that lower energy usage is achievable with optimized operations.
